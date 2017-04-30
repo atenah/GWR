@@ -1,0 +1,2 @@
+# GWR
+Geographically Weighted Regression
